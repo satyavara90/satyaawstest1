@@ -1,4 +1,4 @@
-resource "aws_instance" "test3" {
+resource "aws_instance" "testd3" {
   ami           ="ami-0df435f331839b2d6"
   instance_type = "t3.micro"
 
